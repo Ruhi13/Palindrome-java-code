@@ -1,0 +1,121 @@
+Enter size  0
+enter alphbets  0
+enter numbers  0
+enter special characters  0
+Please enter more in size to get the proper result
+===============================
+Enter size  -1
+enter alphbets  0
+enter numbers  0
+enter special characters  0
+Please enter positive number in size to get the proper result
+===============================
+Enter size  -1
+enter alphbets  -1
+enter numbers  0
+enter special characters  0
+Please enter positive number in size to get the proper result
+==============================
+Enter size  4
+enter alphbets  2
+a
+a
+enter numbers  2
+1
+1
+enter special characters  0
+a11a
+It is a palindrome
+
+==============================
+Enter size  5
+enter alphbets  2
+a
+a
+enter numbers  2
+1
+1
+enter special characters  1
+*
+a1*1a
+It is a palindrome
+===============================
+Enter size  6
+enter alphbets  2
+a
+a
+enter numbers  2
+1
+1
+enter special characters  2
+*
+*
+a1**1a
+It is a palindrome
+===============================
+Enter size  7
+enter alphbets  2
+a
+a
+enter numbers  4
+1
+2
+1
+2
+enter special characters  1
+*
+a12*21a
+It is a palindrome
+==============================
+Enter size  8
+enter alphbets  4
+a
+b
+a
+b
+enter numbers  4
+1
+4
+1
+4
+enter special characters  0
+ab1441ba
+It is a palindrome
+===========================
+Enter size  9
+enter alphbets  3
+a
+b
+b
+enter numbers  4
+1
+2
+3
+1
+enter special characters  2
+*
+&
+a12*&13bb
+It is not a palindrome
+=====================
+Enter size  10
+enter alphbets  5
+a
+b
+b
+a
+a
+enter numbers  5
+1
+2
+2
+2
+1
+enter special characters  0
+ab12122aab
+It is not a palindrome
+
+
+
+
+
